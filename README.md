@@ -29,18 +29,21 @@ Within this project, I would like to explore the following:
 
   ## 1.4 Dataset
   
-  Data selection
-  As this project is particularly focused on data science channels, I found that not many readily available datasets online are suitable      for this purpose.
+  **Data selection :** As this project is particularly focused on data science channels, I found that not many readily available datasets 
+  online are suitable for this purpose. I created my own dataset using the Google Youtube Data API version 3.0. The exact steps of data 
+  creation is presented in section 2. Data Creation below.
 
-  Data limitations
-  The dataset is a real-world dataset and suitable for the research. However, the selection of the top 10 Youtube channels to include in      the research is purely based on my knowledge of the channels in data science field and might not be accurate. My definition is "popular"    is only based on subscriber count but there are other metrics that could be taken into consideration as well (e.g. views, engagement).      The top 10 also seems arbitrary given the plethora of channels on Youtube. There might be smaller channels that might also very       
-  interesting to look into, which could be the next step of this project.
+  **Data limitations :** The dataset is a real-world dataset and suitable for the research. However, the selection of the top 10 Youtube 
+  channels to include in the research is purely based on my knowledge of the channels in data science field and might not be accurate. My 
+  definition is "popular" is only based on subscriber count but there are other metrics that could be taken into consideration as well 
+  (e.g. views, engagement). The top 10 also seems arbitrary given the plethora of channels on Youtube. There might be smaller channels that 
+  might also very interesting to look into, which could be the next step of this project.
 
-  Ethics of data source
-  According to Youtube API's guide, the usage of Youtube API is free of charge given that your application send requests within a quota 
-  limit. "The YouTube Data API uses a quota to ensure that developers use the service as intended and do not create applications that 
-  unfairly reduce service quality or limit access for others. " The default quota allocation for each application is 10,000 units per day, 
-  and you could request additional quota by completing a form to YouTube API Services if you reach the quota limit.
+  **Ethics of data source:** According to Youtube API's guide, the usage of Youtube API is free of charge given that your application send 
+   requests within a quota limit. "The YouTube Data API uses a quota to ensure that developers use the service as intended and do not 
+   create applications that unfairly reduce service quality or limit access for others. " The default quota allocation for each application 
+   is 10,000 units per day, and you could request additional quota by completing a form to YouTube API Services if you reach the quota 
+   limit.
 
   Since all data requested from Youtube API is public data (which everyone on the Internet can see on Youtube), there is no particular 
   privacy issues as far as I am concerned. In addition, the data is obtained only for research purposes in this case and not for any 
