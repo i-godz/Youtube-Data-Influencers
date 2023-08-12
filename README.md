@@ -5,6 +5,7 @@ The scope of this small project is limited to data science channels and I will n
 ## 1.1 Aims, objectives and background
 
 Within this project, I would like to explore the following: <br>
+<br>
 • Getting to know Youtube API and how to obtain video data. <br>
 • Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:<br>
   • Does the number of likes and comments matter for a video to get more views?<br>
@@ -19,8 +20,9 @@ Within this project, I would like to explore the following: <br>
 
   ## 1.2 Steps of the project
   
-  • Obtain video meta data via Youtube API for the top 20-30 channels in the data science niche (this includes several small steps: <br>
-    • create a developer key, request data and transform the responses into a usable data format)<br>
+  Obtain video meta data via Youtube API for the top 20-30 channels in the data science niche, this includes several small steps: <br>
+  <br>
+    • Create a developer key, request data and transform the responses into a usable data format<br>
     • Prepocess data and engineer additional features for analysis<br>
   • Exploratory data analysis.<br>
   • Bulding a tableau dashboard.<br>
