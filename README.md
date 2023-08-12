@@ -8,25 +8,24 @@ Within this project, I would like to explore the following: <br>
 <br>
 • Getting to know Youtube API and how to obtain video data. <br>
 • Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:<br>
-  • Does the number of likes and comments matter for a video to get more views?<br>
-  • Does the video duration matter for views and interaction (likes/ comments)?<br>
-  • Does title length matter for views?<br>
-  • How many tags do good performing videos have? What are the common tags among these videos?<br>
-  • Across all the creators I take into consideration, how often do they upload new videos? On which days in the week?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does the number of likes and comments matter for a video to get more views?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does the video duration matter for views and interaction (likes/ comments)?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does title length matter for views?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• How many tags do good performing videos have? What are the common tags among these videos?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Across all the creators I take into consideration, how often do they upload new videos? On which days in the week?<br>
   • Explore the trending topics using NLP techniques.<br>
-  • Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?<br>
-  • Which questions are being asked in the comment sections in the videos<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which questions are being asked in the comment sections in the videos<br>
 
 
   ## 1.2 Steps of the project
   
   Obtain video meta data via Youtube API for the top 20-30 channels in the data science niche, this includes several small steps: <br>
-  <br>
-    • Create a developer key, request data and transform the responses into a usable data format<br>
-    • Prepocess data and engineer additional features for analysis<br>
-  • Exploratory data analysis.<br>
-  • Bulding a tableau dashboard.<br>
-  • Conclusions.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Create a developer key, request data and transform the responses into a usable data format.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Prepocess data and engineer additional features for analysis.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Exploratory data analysis.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Bulding a tableau dashboard.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Conclusions.<br>
 
   ## 1.3 Dataset
   
