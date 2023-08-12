@@ -65,7 +65,7 @@ In this project, we have explored the video data of the 28 most popular Data sci
  The findings should also be taken with a grain of salt for a number of reasons:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The number of videos is quite small (the dataset has only ~5,779 videos)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• There are many other factors that haven't been taken into the analysis, including the marketing strategy of the creators and many &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;random effects that would affect how successful a video is
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• There are many other factors that haven't been taken into the analysis, including the marketing strategy of the creators and many &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;random effects that would affect how successful a video is.
 
 **4.2. Ideas for future research:**
 
