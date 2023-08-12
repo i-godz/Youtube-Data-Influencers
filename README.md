@@ -1,6 +1,12 @@
 # Exploratory Data Analysing Using Youtube Video Data from Most Popular Data Science Channels
 
-The scope of this small project is limited to data science channels and I will not consider other niches (that might have a different characteristics and audience base). Therefore, in this project will explore the statistics of around 10 most successful data science Youtube channel.
+The scope of this small project is limited to data science channels and I will not consider other niches (that might have a different characteristics and audience base). Therefore, in this project will explore the statistics of around 28 favourite data science Youtube channels.
+
+The repository is structured as follows:
+- `project.ipynb/`: This directory contains Jupyter notebook used for scraping the data.
+- `Youtube_DataCleaning.ipynb/`: This directory contains Jupyter notebook used for data preprocessing, feature engineering.
+- `Machine_Learning.ipynb/`: This directory contains Jupyter notebook used for sentiment analysis, EDA.
+
 
 ## 1. Aims, objectives and background
 
@@ -72,8 +78,6 @@ In this project, we have explored the video data of the 28 most popular Data sci
 To expand and build on this research project, one can:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Expand the dataset to also smaller channels in data science niche
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Do sentiment analysis on the comments and find out which videos get more positive comments and which videos get less positive &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comments
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Do market research by analyzing questions in the comment threads and identifying common questions/ market gaps which could &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potentially filled
 
