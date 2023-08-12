@@ -28,7 +28,7 @@ Within this project, I would like to explore the following: <br>
   • Bulding a tableau dashboard.<br>
   • Conclusions.<br>
 
-  ## 1.4 Dataset
+  ## 1.3 Dataset
   
   **Data selection :** As this project is particularly focused on data science channels, I found that not many readily available datasets 
   online are suitable for this purpose. I created my own dataset using the Google Youtube Data API version 3.0. The exact steps of data 
