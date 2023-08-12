@@ -56,7 +56,7 @@ In this project, we have explored the video data of the 28 most popular Data sci
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The more likes and comments a video has, the more views the video gets (it is not guaranteed that this is a causal relationship, it is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;simply a correlation and can work both way). Likes seem to be a better indicator for interaction than comments and the number of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;likes seem to follow the "social proof", which means the more views the video has, the more people will like it.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Most videos have between 5 and 30 tags.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Most-viewed videos tend to have average title length of 30-70 characters. Too short or too long titles seem to harm viewership.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Most-viewed videos tend to have average title length of 6-12 words. Too short or too long titles seem to harm viewership.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Videos are usually uploaded on Mondays and Fridays. Weekends and Sunday in particular is not a popular time for posting new videos.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Comments on videos are generally positive, we noticed a lot "please" words, suggesting potential market gaps in content that could be &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filled.
 
