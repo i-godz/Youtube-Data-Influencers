@@ -18,7 +18,7 @@ Within this project, I would like to explore the following: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does the video duration matter for views and interaction (likes/ comments)?<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does title length matter for views?<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• How many tags do good performing videos have? What are the common tags among these videos?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Across all the creators I take into consideration, how often do they upload new videos? On which days in the week?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Across all the creators I take into consideration, how often do they upload new videos? On which days in the&nbsp;week?<br>
   • Explore the trending topics using NLP techniques.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which questions are being asked in the comment sections in the videos<br>
@@ -30,7 +30,8 @@ Within this project, I would like to explore the following: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Create a developer key, request data and transform the responses into a usable data format.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Prepocess data and engineer additional features for analysis.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Exploratory data analysis.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Bulding a tableau dashboard.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Bulding a tableau dashboard, view it [HERE.](https://public.tableau.com/app/profile/zyad.wael/viz/YoutubeDataInfluencers/OverviewDahsboard)
+<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Conclusions.<br>
 
   ## 3. Dataset
