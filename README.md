@@ -1,6 +1,6 @@
 # Exploratory Data Analysing Using Youtube Video Data from Most Popular Data Science Channels
 
-The scope of this small project is limited to data science channels and I will not consider other niches (that might have a different characteristics and audience base). Therefore, in this project will explore the statistics of around 28 favourite data science Youtube channels.
+This project's focus is exclusively on data science channels, disregarding other niches that may exhibit distinct characteristics and cater to diverse audiences. Thus, the project will meticulously analyze statistical patterns within approximately 28 well-regarded YouTube channels dedicated to data science.
 
 The repository is structured as follows:
 - `project.ipynb/`: This directory contains Jupyter notebook used for scraping the data.
@@ -12,16 +12,16 @@ The repository is structured as follows:
 
 Within this project, I would like to explore the following: <br>
 <br>
-• Getting to know Youtube API and how to obtain video data. <br>
+• Acquiring a comprehensive understanding of the YouTube API and the process of gathering video-related data. <br>
 • Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does the number of likes and comments matter for a video to get more views?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does the video duration matter for views and interaction (likes/ comments)?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Does title length matter for views?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• How many tags do good performing videos have? What are the common tags among these videos?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Across all the creators I take into consideration, how often do they upload new videos? On which days in the&nbsp;week?<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The influence of metrics like likes and comments on view count.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The impact of video duration on views and user interaction.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The correlation between title length and view count.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Exploration of tag count and common tags in successful videos.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Examination of upload frequency and timing across selected creators.<br>
   • Explore the trending topics using NLP techniques.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Which questions are being asked in the comment sections in the videos<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Identifying prevalent themes through word clouds based on video titles,comments & tags.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Analyzing comment sections to uncover frequently asked questions.<br>
 
 
   ## 2. Steps of the project
