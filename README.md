@@ -43,7 +43,7 @@ Within this project, I would like to explore the following: <br>
   **• Data limitations :** The dataset is a real-world dataset and suitable for the research. However, the selection of the top 10 Youtube 
   channels to include in the research is purely based on my knowledge of the channels in data science field and might not be accurate. My 
   definition is "popular" is only based on subscriber count but there are other metrics that could be taken into consideration as well 
-  (e.g. views, engagement). The top 10 also seems arbitrary given the plethora of channels on Youtube. There might be smaller channels that 
+  (e.g. views, engagement). The top 28 also seems arbitrary given the plethora of channels on Youtube. There might be smaller channels that 
   might also very interesting to look into, which could be the next step of this project.
 
   **• Ethics of data source:** According to Youtube API's guide, the usage of Youtube API is free of charge given that your application send 
