@@ -40,7 +40,7 @@ Within this project, I would like to explore the following: <br>
   online are suitable for this purpose. I created my own dataset using the Google Youtube Data API version 3.0. The exact steps of data 
   creation is presented below.
 
-  **• Data limitations :** The dataset is a real-world dataset and suitable for the research. However, the selection of the top 10 Youtube 
+  **• Data limitations :** The dataset is a real-world dataset and suitable for the research. However, the selection of the top 28 Youtube 
   channels to include in the research is purely based on my knowledge of the channels in data science field and might not be accurate. My 
   definition is "popular" is only based on subscriber count but there are other metrics that could be taken into consideration as well 
   (e.g. views, engagement). The top 28 also seems arbitrary given the plethora of channels on Youtube. There might be smaller channels that 
