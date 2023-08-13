@@ -84,6 +84,12 @@ To expand and build on this research project, one can:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Conduct this research for other niches (e.g. vlogs or beauty channels), to compare different niches with each other to see the different &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patterns in viewership and video characteristics.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Explore the impact of collaborations between data science creators on video performance. Investigate whether cross-promotions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and joint content contribute to increased views and audience reach
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Investigate audience engagement dynamics, such as viewer retention throughout videos, click-through rates, and user &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interactions. Understanding how viewers engage with videos on a granular level could reveal valuable strategies for optimizing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;video content.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Extend the analysis of upload timing by considering the time of day for video uploads. Determine whether specific hours of the day &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result in higher interaction and views.
+
 ## 5. References/ Resources used:
 [1] Youtube API. Avaiable at https://developers.google.com/youtube/v3
 
